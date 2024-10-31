@@ -1,0 +1,9 @@
+{
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "hidden_dim": 256,
+    "patience": 5,
+    "pooling": "mask_max",
+    "freeze_embeddings": true,
+    "num_epochs": 10
+}

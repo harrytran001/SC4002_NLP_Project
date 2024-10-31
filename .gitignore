@@ -1,6 +1,5 @@
 .venv
 venv
-best_rnn_model.pth
 word2vec.kv
 word2vec.kv.vectors.npy
 glove/*
